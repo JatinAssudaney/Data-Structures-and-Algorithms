@@ -1,7 +1,11 @@
 Java-DS&Algo.code-workspace
+.classpath
+.project
 
 /0. Grokking the System Design Interview
 Questions.xlsx
+
+/getting_started/InterfacePractice.java
 
 # Need to remove ignores later
 /recursion/FloodFill.java
@@ -16,3 +20,4 @@ Questions.xlsx
 
 # Partially Solved
 SellDiminishingValuedColorBalls.java
+/bin/
