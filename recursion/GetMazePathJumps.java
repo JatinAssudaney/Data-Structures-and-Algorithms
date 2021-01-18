@@ -48,7 +48,6 @@ public class GetMazePathJumps {
         ArrayList<String> result = getMazePaths(1, 1, row, col);
         System.out.println(result);
         sc.close();
-
     }
 
 }
